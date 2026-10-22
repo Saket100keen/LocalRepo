@@ -1,7 +1,13 @@
 def myfunction():
-    a=5
-    b=6
+    a = 5
+    b = 6
+    c = 6 
+
     return d
 
-    print("Hello, World!")
 myfunction()
+
+
+
+
+test()
